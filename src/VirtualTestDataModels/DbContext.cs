@@ -3,7 +3,7 @@ using BaseDataModels.Repositories;
 
 namespace VirtualTestDataModels;
 
-    public class DbContext
+    internal class DbContext
     {
         private readonly IList<Student>? _students = new List<student>();
 
