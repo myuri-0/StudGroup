@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesktopApp", "DesktopApp", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataModes", "DataModes", "{B0F32DA4-6057-4B7D-BA41-D3876284E64F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTestDataModels", "VirtualTestDataModels\VirtualTestDataModels.csproj", "{CFF488D3-5528-4492-B83B-8256B774606B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{30E5EF67-A275-4E5E-AD3D-E7F1963DE344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E5EF67-A275-4E5E-AD3D-E7F1963DE344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30E5EF67-A275-4E5E-AD3D-E7F1963DE344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF488D3-5528-4492-B83B-8256B774606B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF488D3-5528-4492-B83B-8256B774606B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF488D3-5528-4492-B83B-8256B774606B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF488D3-5528-4492-B83B-8256B774606B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -31,6 +37,7 @@ Global
 		{30E5EF67-A275-4E5E-AD3D-E7F1963DE344} = {B0F32DA4-6057-4B7D-BA41-D3876284E64F}
 		{3F775AE9-E96C-4EA1-976F-802E050625FC} = {E6A67D79-72BC-4B66-BBB3-5BE0669642BD}
 		{B0F32DA4-6057-4B7D-BA41-D3876284E64F} = {492D7B18-D85C-40F5-9664-4FAAEDFEFE50}
+		{CFF488D3-5528-4492-B83B-8256B774606B} = {B0F32DA4-6057-4B7D-BA41-D3876284E64F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {829AEB1C-D169-4CB6-97ED-E61A33022922}

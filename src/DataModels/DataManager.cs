@@ -2,4 +2,4 @@
 
 namespace BaseDataModels;
 
-public class DataMananger(IStudentRep s)
+public class DataMananger(IStudentRep s);
