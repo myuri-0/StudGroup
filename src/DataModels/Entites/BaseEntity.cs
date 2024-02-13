@@ -1,4 +1,4 @@
-﻿namespace DataModels.Entites;
+﻿namespace BaseDataModels.Entites;
 
     internal class BaseEntity
     {

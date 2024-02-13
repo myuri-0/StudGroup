@@ -1,4 +1,4 @@
-﻿namespace DataModels.Repositories;
+﻿namespace BaseDataModels.Repositories;
 
 public interface IBaseRepository<T> where T : class
 {
