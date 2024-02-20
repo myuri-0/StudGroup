@@ -2,4 +2,8 @@
 
 namespace BaseDataModels;
 
-public class DataMananger(IStudentRep s);
+public class DataManager(IStudentRep studentRep, ICourseRep courseRep)
+{
+    public IStudentRep StudentRep { get; } = studentRep;
+    public ICourseRep CourseRep { get; } = courseRep;
+};

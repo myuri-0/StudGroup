@@ -8,12 +8,15 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseDataModels", "DataModels\BaseDataModels.csproj", "{30E5EF67-A275-4E5E-AD3D-E7F1963DE344}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E6A67D79-72BC-4B66-BBB3-5BE0669642BD}"
+	ProjectSection(SolutionItems) = preProject
+		﻿Program.cs = ﻿Program.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesktopApp", "DesktopApp", "{3F775AE9-E96C-4EA1-976F-802E050625FC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataModes", "DataModes", "{B0F32DA4-6057-4B7D-BA41-D3876284E64F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTestDataModels", "VirtualTestDataModels\VirtualTestDataModels.csproj", "{CFF488D3-5528-4492-B83B-8256B774606B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualTestDataModels", "VirtualTestDataModels\VirtualTestDataModels.csproj", "{CFF488D3-5528-4492-B83B-8256B774606B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{6A51A7FC-40BE-474A-9AFF-7909CE941187}"
 EndProject

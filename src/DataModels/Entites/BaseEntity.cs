@@ -1,8 +1,8 @@
 ﻿namespace BaseDataModels.Entites;
 
-    internal class BaseEntity
+public abstract class BaseEntity
     {
-        public Guid Id { get; init; }
+        public Guid Id { get; set; }
         public string Name { get; set; } = null!;
     }
 
